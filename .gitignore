@@ -1,0 +1,10 @@
+/*.dll
+/*.exe
+/*.lib
+/*.exp
+/*.so
+
+bin/
+obj/
+framed_lua/
+demo/
